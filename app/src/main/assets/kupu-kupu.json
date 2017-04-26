@@ -1,0 +1,452 @@
+[
+	{
+		"famili": "Swallowtails",
+		"sub_famili": "Papilionidae",
+		"genus": "Graphium",
+		"spesies": "Agamemnon",
+		"nama_lokal": "kupu bintik hijau",
+		"lebar_sayap": "9-10 cm",
+		"kecapatan_terbang": "Cepat",
+		"deskripsi": "Si penerbang cepat ini biasanya terlihat sebagai sekelebat warna hijau.  Terbang dengan ketinggian sedang menyebabkan kupu-kupu ini dapat dengan mudah ditemui.  ketersediaan pakan larva yang sangat beragam juga menyebabkan kupu-kupu ini gampang ditemui di daerah perkotaan (sebagian tenaman pakan kupu ini adalah tanaman hias dan buah).",
+		"pakan": "sirsak , glodokan , cempaka",
+		"warna_dominan": "hitam",
+		"warna": [
+			"hitam", "coklat", "hijau", "putih"
+		],
+		"gambar": [
+			"graphium_agamemnon.png", "graphium_agamemnon2.png"
+		]
+	},
+	{
+		"famili": "Swallowtails",
+		"sub_famili": "Papilionidae",
+		"genus": "Graphium",
+		"spesies": "Doson",
+		"nama_lokal": "Kupu sirsak",
+		"lebar_sayap": "9-10 cm",
+		"kecapatan_terbang": "sedang",
+		"deskripsi": "Kupu ini ketika terbang cukup susah dibedakan antara Graphium sarpedon dengan Graphium doson.  Terbang dengan ketinggian sedang menyebabkan kupu-kupu ini dapat dengan mudah ditemui.  Ketersediaan pakan larva yang sangat beragam juga menyebabkan kupu-kupu ini gampang ditemui di daerah perkotaan (sebagian tanaman pakan kupu ini adalah tanaman hias dan buah).",
+		"pakan": "Sirsak, Glodokan, Cempaka",
+		"warna_dominan": "hitam",
+		"warna": [
+			"hitam", "putih", "biru", "kuning"
+		],
+		"gambar": [
+			"graphium_doson.png", "graphium_doson2.png"
+		]
+	},
+	{
+		"famili": "Swallowtails",
+		"sub_famili": "Papilionidae",
+		"genus": "Graphium",
+		"spesies": "Sarpedon",
+		"nama_lokal": "Kupu Segitiga",
+		"lebar_sayap": "9-10 cm",
+		"kecapatan_terbang": "Cepat",
+		"deskripsi": "Kupu ini ketika terbang cukup susah dibedakan antara Graphium Sarpedon dengan Graphium doson.  Terbang dengan ketinggian sedang menyebabkan kupu-kupu ini dapat dengan mudah ditemui.  Ketersediaan pakan larva yang sangat beragam juga menyebabkan kupu-kupu ini gampang ditemui di daerah perkotaan (seagian tanaman pakan kupu ini adalah tanaman hias dan buah).",
+		"pakan": "Sirsak, Cempaka",
+		"warna_dominan": "hitam",
+		"warna": [
+			"hitam", "hijau", "biru"
+		],
+		"gambar": [
+			"graphium_sarpedon.png", "graphium_sarpedon2.png"
+		]
+	},
+	{
+		"famili": "Swallowtails",
+		"sub_famili": "Papilionidae",
+		"genus": "Papilio",
+		"spesies": "Demoleus",
+		"nama_lokal": "Kupu Limau Kuning",
+		"lebar_sayap": "10-11 cm",
+		"kecapatan_terbang": "Sedang",
+		"deskripsi": "Kupu-kupu pemakan jeruk ini memiliki ulat yang sangat mirip P. memnon dan P. nephelus. Kupu-kupu ini bewarna kuning dengan bintik biru yang sangat mudah dikenali.",
+		"pakan": "Citrus sp",
+		"warna_dominan": "coklat",
+		"warna": [
+			"kuning", "hitam", "orange", "coklat", "putih"
+		],
+		"gambar": [
+			"papilio_demoleus.png", "papilio_demoleus2.png"
+		]
+	},
+	{
+		"famili": "Swallowtails",
+		"sub_famili": "Papilionidae",
+		"genus": "Papilio",
+		"spesies": "Memnon",
+		"nama_lokal": "Kupu Raja Limau",
+		"lebar_sayap": "15-17 cm",
+		"kecapatan_terbang": "Sedang",
+		"deskripsi": "Kupu-kupu besar dan cukup banyak terdapat di alam ini, sering terlihat terbang rendah untuk mencari bunga dan pasangan. Pakan larva utama dari kupu ini adalah Jeruk-jerukan, hal ini pulalah yang menyebabkan banyaknya kupu ini di alam karena ketersediaan pakan yang stabil di alam.",
+		"pakan": "Citrus sp",
+		"warna_dominan": "hitam",
+		"warna": [
+			"hitam", "kuning", "putih", "biru", "coklat"
+		],
+		"gambar": [
+			"papilio_memnon.png", "papilio_memnon2.png"
+		]
+	},
+	{
+		"famili": "Swallowtails",
+		"sub_famili": "Papilionidae",
+		"genus": "Papilio",
+		"spesies": "polytes",
+		"nama_lokal": "Kupu Limau Kecil",
+		"lebar_sayap": "9-10 cm",
+		"kecapatan_terbang": "Sedang",
+		"deskripsi": "Kupu-kupu ini memiliki pola sayap yang berbeda antara jantan dan betina. Kupu P.  polytes betina adalah mimik dari kupu Pachliopta aristolochiae yang lebih beracun. Hal ini biasa dilakukan beberapa spesies kupu-kupu yang kurang beracun untuk meniru pola sayap kupu-kupu yang lebih beracun.",
+		"pakan": "Citrus sp",
+		"warna_dominan": "hitam",
+		"warna": [
+			"hitam", "putih", "coklat", "orange"
+		],
+		"gambar": [
+			"papilio_polytes_cyrus.png", "papilio_polytes_cyrus2.png"
+		]
+	},
+	{
+		"famili": "Pieridae",
+		"sub_famili": "Pierinae",
+		"genus": "Appias",
+		"spesies": "libythea",
+		"nama_lokal": "Kupu Rumput Liar",
+		"lebar_sayap": "3-5 cm",
+		"kecapatan_terbang": "Sedang",
+		"deskripsi": "Kupu-kupu rumput ini sering terlihat terbang rendah. Biasanya betina kupu ini akan terbang di sekitar tanaman pakan larva kupu ini. Rumput manna atau Cleome rutidosperma biasanya tumbuh liar dibantaran parit yang memiliki sinar matahari yang cukup.",
+		"pakan": "Cleome rutidosperma",
+		"warna_dominan": "putih",
+		"warna": [
+			"putih", "kuning", "coklat"
+		],
+		"gambar": [
+			"appias_libythea.png", "appias_libythea2.png"
+		]
+	},
+	{
+		"famili": "Pieridae",
+		"sub_famili": "Coliadinae",
+		"genus": "Catopsilia",
+		"spesies": "pomona",
+		"nama_lokal": "Kupu Kertas Putih",
+		"lebar_sayap": "4-5 cm",
+		"kecapatan_terbang": "Cepat",
+		"deskripsi": "Kupu-kupu kertas putih biasanya terbang dengan cepat. Ulat dari kupu ini memiliki pita hitam disepanjang tubuh ulat.",
+		"pakan": "Ketepeng",
+		"warna_dominan": "putih",
+		"warna": [
+			"putih", "kuning"
+		],
+		"gambar": [
+			"catopsilia_pomona.png", "catopsilia_pomona2.png"
+		]
+	},
+	{
+		"famili": "Pieridae",
+		"sub_famili": "Pieridae",
+		"genus": "Delias",
+		"spesies": "Hyparete",
+		"nama_lokal": "Kupu Benalu Putih",
+		"lebar_sayap": "4-6 cm",
+		"kecapatan_terbang": "Lambat",
+		"deskripsi": "Kupu-kupu dengan sayap warna primer ini seolah-olah memperingatkan pada predatornya bahwa ia adalah kupu-kupu yang beracun. Kupu-kupu ini biasa terbang pada ketinggian sedang dan cukup lambat sehingga dapat dengan gampang dikenali. Ulat dari kupu-kupu ini biasanya berkelompok dengan warna teh susu.",
+		"pakan": "Benalu, Lorantaceae",
+		"warna_dominan": "putih",
+		"warna": [
+			"putih", "merah", "kuning"
+		],
+		"gambar": [
+			"delias_hyparete.png", "delias_hyparete2.png"
+		]
+	},
+	{
+		"famili": "Pieridae",
+		"sub_famili": "Coliadinae",
+		"genus": "Eurema",
+		"spesies": "Sari",
+		"nama_lokal": "Kupu Kuning Coklat",
+		"lebar_sayap": "3-4 cm",
+		"kecapatan_terbang": "Lambat",
+		"deskripsi": "Kupu-kupu ini adalah kupu yang paling mudah dikenali dari genus Eurema dengan bagian coklat di ujung sayap depan. Seringkali ditemui bergerombol sedang menghisap mineral di lumpur.",
+		"pakan": "Ketepeng, kaliandra",
+		"warna_dominan": "kuning",
+		"warna": [
+			"kuning", "coklat"
+		],
+		"gambar": [
+			"eurema_sari.png", "eurema_sari2.png"
+		]
+	},
+	{
+		"famili": "Pieridae",
+		"sub_famili": "Pieridae",
+		"genus": "Leptosia",
+		"spesies": "nina",
+		"nama_lokal": "Kupu Cacaputi",
+		"lebar_sayap": "2-3 cm",
+		"kecapatan_terbang": "Lambat",
+		"deskripsi": "Kupu-kupu ini terbang sangat pelan dan biasa terbang di ketinggian 0-1 meter di atas permukaan tanah. Walaupun kupu cacaputi terbang lambat tetapi, kupu ini jarang sekali hinggap. Sehingga, kesempatan untuk mendapatkan foto dari kupu-kupu ini cukup sulit.",
+		"pakan": "Cleome rutidosperma",
+		"warna_dominan": "putih",
+		"warna": [
+			"putih", "coklat"
+		],
+		"gambar": [
+			"leptosia_nina.png", "leptosia_nina2.png"
+		]
+	},
+	{
+		"famili": "Pieridae",
+		"sub_famili": "Pieridae",
+		"genus": "Pareronia",
+		"spesies": "Valeria",
+		"nama_lokal": "Kupu Biru Muda",
+		"lebar_sayap": "6-7 cm ",
+		"kecapatan_terbang": "Sedang",
+		"deskripsi": "Betina dari kupu-kupu ini adalah mimic dari kupu-kupu aspasia. Jantan yang berwarna biru muda lebih sering terlihat daripada betina kupu ini. Ketika jantan kupu ini terbang sering terlihat mirip dengan jantan dari kupu rumput liar, namun dengan warna sayap yang lebih biru.",
+		"pakan": "N/A",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "biru", "putih", "abu-abu", "kuning"
+		],
+		"gambar": [
+			"pareronia_valeria.png", "pareronia_valeria2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Nymphalidae",
+		"genus": "Hypolimnas",
+		"spesies": "misippus",
+		"nama_lokal": "Kupu Mimik Widuri",
+		"lebar_sayap": "6-7 cm",
+		"kecapatan_terbang": "Sedang",
+		"deskripsi": "Kupu-kupu mimic widuri meniru pola sayap kupu widuri. Ketika terbang hamper tidak bias dibedakan antara kedua kupu-kupu ini. Pola renda pada bagian marginal sayapnya lah yang dapat dilihat langsung untuk membedakannya dengan kupu widuri.",
+		"pakan": "Sida rhombifolia, Elatostemma cuneatum, Portulaca oleracea",
+		"warna_dominan": "cream",
+		"warna": [
+			"cream", "hitam", "putih", "biru", "orange"
+		],
+		"gambar": [
+			"hypolimnas_missipus.png", "hypolimnas_missipus2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Nymphalidae",
+		"genus": "Amathusia",
+		"spesies": "Phidippus",
+		"nama_lokal": "Kupu Kelapa",
+		"lebar_sayap": "12-14 cm",
+		"kecapatan_terbang": "Cepat",
+		"deskripsi": "Kupu kelapa termasuk kupu-kupu yang berukuran besar. Kupu ini cenderung hinggap dan bersembunyi daripada terbang mencari pasangan",
+		"pakan": "Kelapa",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "putih", "hitam"
+		],
+		"gambar": [
+			"amathusia_phidippus.png", "amathusia_phidippus2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Nymphalidae",
+		"genus": "Doleschallia",
+		"spesies": "bisaltide",
+		"nama_lokal": "Kupu Daun Kering",
+		"lebar_sayap": "7-10 cm",
+		"kecapatan_terbang": "Cepat",
+		"deskripsi": "Kupu-kupu dengan sayap seperti dau kering ini biasanya sering hinggap dan berkamuflase sebagai daun kering. Ketika, terganggu kupu daun kering akan terbang dengan cepat dan mencari tempat hinggap yang baru.",
+		"pakan": "Asistasia, Daun Wungu",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "orange", "hitam", "putih"
+		],
+		"gambar": [
+			"doleschallia_bisaltide.png", "doleschallia_bisaltide2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Nymphalidae",
+		"genus": "Elymnias",
+		"spesies": "Hypermnestra",
+		"nama_lokal": "Kupu Pinang",
+		"lebar_sayap": "5-7 cm",
+		"kecapatan_terbang": "Sedang",
+		"deskripsi": "Kupu-kupu ini sering terlihat terbang di sekitar tanaman pakannya. Ketika hinggap sayap dalam keadaan tertutup, sehingga cukup sulit dibedakan dengan lingkungan.  Sayap atas memiliki pola bergaris seperti kupu harimau.",
+		"pakan": "Palem",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "hitam"
+		],
+		"gambar": [
+			"elymnias_hypermnestra.png", "elymnias_hypermnestra2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Danainae",
+		"genus": "Euploea",
+		"spesies": "mulciber",
+		"nama_lokal": "Kupu Gagak Garis",
+		"lebar_sayap": "4-7 cm",
+		"kecapatan_terbang": "Lambat",
+		"deskripsi": "Kupu-kupu gagak garis sangat mirip dengan kupu gagak yang lain. Betina dari kupu ini memiliki pola garis yang lebih mudah dikenali dari kupu gagak yang lain.",
+		"pakan": "Nerium sp",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "putih", "hitam"
+		],
+		"gambar": [
+			"euploea_mulciber.png", "euploea_mulciber2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Nymphalinae",
+		"genus": "Hypolimnas",
+		"spesies": "bolina",
+		"nama_lokal": "Kupu Telur",
+		"lebar_sayap": "6-9 cm",
+		"kecapatan_terbang": "Sedang",
+		"deskripsi": "Kupu-kupu telur ini ditandai dengan pola putih teur dan warna ungu pada sayap atas jantan. Sering hinggap di sekitar bunga dan biasanya untuk mencari pasangan.",
+		"pakan": "N/A",
+		"warna_dominan": "hitam",
+		"warna": [
+			"hitam", "coklat", "putih", "biru", "orange"
+		],
+		"gambar": [
+			"hypolimnas_bolina.png", "hypolimnas_bolina2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Nymphalinae",
+		"genus": "Junonia",
+		"spesies": "hedonia",
+		"nama_lokal": "Kupu Merak Coklat",
+		"lebar_sayap": "5-6 cm",
+		"kecapatan_terbang": "Cepat",
+		"deskripsi": "Kupu-kupu merak coklat ini cukup mudah dibedakan dengan kupu merak yan lain. Kupu ini memiliki warna coklat yang dominan pada sayap bagian atas dengan pola bulat kecil yang banyak pada bagian sub marginal sayap belakang.",
+		"pakan": "Ruellia repens, Hemigraphis reptans",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "hitam"
+		],
+		"gambar": [
+			"junonia_hedonia.png", "junonia_hedonia2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Nymphalinae",
+		"genus": "Junonia",
+		"spesies": "orithya",
+		"nama_lokal": "Kupu Merak Biru",
+		"lebar_sayap": "5-6 cm",
+		"kecapatan_terbang": "Lambat",
+		"deskripsi": "Kupu-kupu merak ini juga kupu-kupu penyuka matahari. Sering terlihat pada tempat-tempat terbuka. Dengan jantan yang memiliki sayap berwarna biru dengan pola bulat mata pada sayap bagian atas, maka kupu-kupu ini cukup mudah dikenali.",
+		"pakan": "Asystasia intrusa",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "hitam", "biru", "putih", "kuning"
+		],
+		"gambar": [
+			"junonia_orithya.png", "junonia_orithya2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Nymphalinae",
+		"genus": "melanitis",
+		"spesies": "Leda",
+		"nama_lokal": "Kupu Ilalang",
+		"lebar_sayap": "5-7 cm",
+		"kecapatan_terbang": "Sedang",
+		"deskripsi": "Kupu ilalang sering terlihat di serasah. Kupu ini juga sering menghisap sari buah dari buah yang jatuh di lantai hutan. ",
+		"pakan": "Ilalang",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "hitam", "putih"
+		],
+		"gambar": [
+			"melanitis_leda.png", "melanitis_leda2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Limenitidinae",
+		"genus": "Moduza",
+		"spesies": "procris",
+		"nama_lokal": "Kupu Procris",
+		"lebar_sayap": "6-8 Cm",
+		"kecapatan_terbang": "Cepat",
+		"deskripsi": "Kupu-kupu terbang sangat cepat. Sering terlihat basking di tempat terbuka dan akan terbang ketik terganggu.",
+		"pakan": "Timonius wallichiana",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "putih", "hitam"
+		],
+		"gambar": [
+			"moduza_prociis.png", "moduza_prociis2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Limenitidinae",
+		"genus": "Phalanta",
+		"spesies": "Phalantha",
+		"nama_lokal": "Kupu Leopard",
+		"lebar_sayap": "5-7 Cm",
+		"kecapatan_terbang": "Cepat",
+		"deskripsi": "Kupu-kupu leopard terbang sangat cepat dan agak sulit dikenali ketika terbang.",
+		"pakan": "N/A",
+		"warna_dominan": "orange",
+		"warna": [
+			"orange", "hitam"
+		],
+		"gambar": [
+			"phalanta_phalantha.png", "phalanta_phalantha2.png"
+		]
+	},
+	{
+		"famili": "Nymphalidae",
+		"sub_famili": "Limenitidinae",
+		"genus": "Ypthima",
+		"spesies": "Baldus",
+		"nama_lokal": "Kupu Rumput Bintik 6",
+		"lebar_sayap": "3-4 Cm",
+		"kecapatan_terbang": "Lambat",
+		"deskripsi": "Kupu-kupu rumput ini sering terlihat hinggap di rumput yang menjadi pakan ulat kupu ini.",
+		"pakan": "Rumput",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "hitam", "kuning", "putih"
+		],
+		"gambar": [
+			"ypthima_baldus.png", "ypthima_baldus2.png"
+		]
+	},
+	{
+		"famili": "Hesperiidae",
+		"sub_famili": "Hesperiinae",
+		"genus": "Udaspes",
+		"spesies": "Folus",
+		"nama_lokal": "Kupu Jahe",
+		"lebar_sayap": "3-4 cm",
+		"kecapatan_terbang": "Cepat Sekali",
+		"deskripsi": "Kupu-kupu cukup mudah dikenali dari Hesperiid lain, bercorak putih abu-abu. Kupu ini sering terlihat puddling mencari mineral di tanah berpasir.",
+		"pakan": "Zingiberaceae",
+		"warna_dominan": "coklat",
+		"warna": [
+			"coklat", "putih", "hitam"
+		],
+		"gambar": [
+			"udaspes_folus.png", "udaspes_folus2.png"
+		]
+	}
+]

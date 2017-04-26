@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_beranda"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Beranda"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/nav_kupu_kupu"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="Daftar Kupu-Kupu"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/nav_kategori"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="Kategori"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info_outline_black_24dp"
+            android:title="Info"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/nav_tentang"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Tentang" />
+        <item
+            android:id="@+id/nav_bantuan"
+            android:icon="@drawable/ic_help_outline_black_24dp"
+            android:title="Bantuan" />
+    </group>
+
+</menu>

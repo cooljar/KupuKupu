@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kupu Kupu</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_list_kupu_kupu">ListKupuKupuActivity</string>
+    <string name="title_activity_kupu_kupu_detail">KupuKupuDetailActivity</string>
+    <string name="title_activity_kategori">KategoriActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cari_kupu_kupu">CariKupuKupuActivity</string>
+    <string name="title_activity_info_kupu_kupu">InfoKupuKupuActivity</string>
+    <string name="title_activity_tentang">TentangActivity</string>
+    <string name="title_activity_bantuan">BantuanActivity</string>
+</resources>
